@@ -39,16 +39,18 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
 
-## Моя GitHub-статистика
+## Моя активность на GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushaniya12&show_icons=true&theme=merko&hide_border=true&bg_color=f5f7fa&title_color=3d4a5a&icon_color=7a9eb5&text_color=3d4a5a" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushaniya12&layout=compact&theme=merko&hide_border=true&bg_color=f5f7fa&title_color=3d4a5a&text_color=3d4a5a" alt="Top Languages" width="49%">
+  <img src="https://profile-counter.glitch.me/Raushaniya12/count.svg" alt="Profile Views" width="200">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raushaniya12&theme=merko&hide_border=true&background=f5f7fa&stroke=7a9eb5&ring=7a9eb5&fire=7a9eb5&currStreakLabel=3d4a5a&dates=3d4a5a" alt="Streak Stats" width="98%">
-</p>
+**Общая статистика:**
+- На GitHub с: 2025 года
+- Коммитов: 108+
+- Лучшая серия: 5 дней
+- Репозиториев: 17
+- Просмотры профиля: <img src="https://profile-counter.glitch.me/Raushaniya12/count.svg" alt="Views" width="100">
 
 
 ## Образование
