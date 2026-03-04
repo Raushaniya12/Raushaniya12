@@ -39,10 +39,10 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 </p>
 
-##  Моя GitHub-статистика
+## Моя GitHub-статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushaniya12&show_icons=true&theme=merko&hide_border=true&bg_color=f5f7fa&title_color=3d4a5a&icon_color=7a9eb5&text_color=3d4a5a&rank_icon=github" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raushaniya12&show_icons=true&theme=merko&hide_border=true&bg_color=f5f7fa&title_color=3d4a5a&icon_color=7a9eb5&text_color=3d4a5a" alt="GitHub Stats" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushaniya12&layout=compact&theme=merko&hide_border=true&bg_color=f5f7fa&title_color=3d4a5a&text_color=3d4a5a" alt="Top Languages" width="49%">
 </p>
 
