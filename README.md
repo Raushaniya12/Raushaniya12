@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=19&duration=3500&color=7a9eb5&center=true&vCenter=true&width=450&lines=Разработчик+🎓;Студентка+БПИ_23_02;C%23+%7C+WPF+%7C+Git;Инклюзивные+технологии;Чистый+код+✨" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=19&duration=3500&color=7a9eb5&center=true&vCenter=true&width=450&lines=Разработчик+🎓;Студентка+БПИ_23_02;C%23+%7C+WPF+%7C+Git;Чистый+код+✨" alt="Typing SVG">
 </p>
 
 <p align="center">❄️ ───────────────────────── ❄️</p>
