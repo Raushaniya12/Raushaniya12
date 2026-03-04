@@ -13,7 +13,7 @@
 
 
 - **Изучаю:** `WPF`, `Git/GitHub`, `UX/UI для инклюзивных проектов`, `чистую архитектуру`
-- **Как связаться:** [📧 Email](mailto:rausaniahusainova724@gmail.com)
+- **Как связаться:** [📧 Email](rausaniahusainova724@gmail.com)
 - **Интересный факт:** люблю смотреть сериалы и дорамы 
 
 
@@ -42,7 +42,6 @@
 ## Моя активность на GitHub
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Raushaniya12/count.svg" alt="Profile Views" width="200">
 </p>
 
 **Общая статистика:**
@@ -50,7 +49,7 @@
 - Коммитов: 108+
 - Лучшая серия: 5 дней
 - Репозиториев: 17
-- Просмотры профиля: <img src="https://profile-counter.glitch.me/Raushaniya12/count.svg" alt="Views" width="100">
+- Просмотры профиля: 
 
 
 ## Образование
