@@ -14,6 +14,7 @@
 
 - **Изучаю:** `WPF`, `Git/GitHub`, `UX/UI для инклюзивных проектов`, `чистую архитектуру`
 - **Как связаться:** [rausaniahusainova724@gmail.com]
+- **Резюме:** (https://raushaniya12.github.io/username.github.io/)
 - **Интересный факт:** люблю смотреть сериалы и дорамы 
 
 
